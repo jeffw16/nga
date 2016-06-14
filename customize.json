@@ -1,5 +1,5 @@
 {
-  "title": "IncubateDFW",
+  "title": "IncubateNGA",
   "color": {
     "$type": "theme",
     "$value": [
@@ -63,7 +63,7 @@
         "$value": "fa-book"
       },
       "head": "Learn",
-      "body": "IncubateDFW will be an educational experience for participants of all levels. We will have various workshops from which participants can learn entirely new skills or platforms, and many mentors who will be able to share their knowledge acquired with years of experience."
+      "body": "IncubateNGA will be an educational experience for participants of all levels. We will have various workshops from which participants can learn entirely new skills or platforms, and many mentors who will be able to share their knowledge acquired with years of experience."
     },
     "second": {
       "icon": {
@@ -71,7 +71,7 @@
         "$value": "fa-lightbulb-o"
       },
       "head": "Build",
-      "body": "IncubateDFW will foster growth, creating an environment in which participants can create revolutionary products with technology. With 30 hours to hack, teams will have the ability to complete polished products with the potential to disrupt industries."
+      "body": "IncubateNGA will foster growth, creating an environment in which participants can create revolutionary products with technology. With 30 hours to hack, teams will have the ability to complete polished products with the potential to disrupt industries."
     },
     "third": {
       "icon": {
@@ -79,7 +79,7 @@
         "$value": "fa-users"
       },
       "head": "Connect",
-      "body": "Because IncubateDFW is an entrepreneurship hackathon, participants will have diverse skillsets. Designers, developers, and budding entrepreneurs will come together to network and create amazing products."
+      "body": "Because IncubateNGA is an entrepreneurship hackathon, participants will have diverse skillsets. Designers, developers, and budding entrepreneurs will come together to network and create amazing products."
     }
   },
   "countup": {
@@ -104,7 +104,7 @@
         "$value": [
           {
             "question": "Who can apply?",
-            "answer": "Any high school or college student can apply to participate in IncubateDFW, regardless of experience with programming. Because it is an entrepreneurship event, we are looking for a diverse pool of participants in terms of skillsets."
+            "answer": "Any high school or college student can apply to participate in IncubateNGA, regardless of experience with programming. Because it is an entrepreneurship event, we are looking for a diverse pool of participants in terms of skillsets."
           },
           {
             "question": "How do I apply?",
@@ -127,7 +127,7 @@
         "$value": [
           {
             "question": "When/Where?",
-            "answer": "IncubateDFW will take place on August 6-7 at the Dallas Fort Work."
+            "answer": "IncubateNGA will take place on August 6-7 at the Dallas Fort Work."
           },
           {
             "question": "Is there transportation or travel reimbursement?",
@@ -312,20 +312,20 @@
       "$value": []
     }
   },
-  "sponsor_contact": "If you are interested in sponsoring IncubateDFW, you can view our <a href='https://docs.google.com/presentation/d/1YiSx5JMCKeMDfFszUfi3kdZ76C3hxvd5YqN68t0IRDk' target='_blank'>sponsor packet</a>. For more information, contact us at <a href='mailto:dfw@incubatex.org'>dfw@incubatex.org</a>.",
+  "sponsor_contact": "If you are interested in sponsoring IncubateNGA, you can view our <a href='https://docs.google.com/presentation/d/1YiSx5JMCKeMDfFszUfi3kdZ76C3hxvd5YqN68t0IRDk' target='_blank'>sponsor packet</a>. For more information, contact us at <a href='mailto:nga@incubatex.org'>nga@incubatex.org</a>.",
   "contact_us": "Contact Us",
   "contact": {
     "email": {
       "$type": "link",
-      "$value": "mailto:dfw@incubatex.org"
+      "$value": "mailto:nga@incubatex.org"
     },
     "facebook": {
       "$type": "link",
-      "$value": "https://www.facebook.com/incubatedfw/"
+      "$value": "https://www.facebook.com/incubatenga/"
     },
     "twitter": {
       "$type": "link",
-      "$value": "https://www.twitter.com/incubatedfw/"
+      "$value": "https://www.twitter.com/incubatenga/"
     }
   }
 }
